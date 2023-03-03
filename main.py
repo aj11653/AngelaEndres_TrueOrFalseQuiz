@@ -8,7 +8,7 @@ print(r"""
  ╚══▀▀═╝  ╚═════╝ ╚═╝╚══════╝       ╚═╝   ╚═╝╚═╝     ╚═╝╚══════╝╚═╝
 """)
 # Define tuples for questions and correct answers
-questions = ("Q1. Walt Disneys holds the record for the most Oscars.", "Q2. Atari made the first game console.", "Q3. Sheep can climb walls up to almost 90 degrees steep.", "Q4. An octopus has three hearts.", "Q5. Hydrogen is the first element on the periodic table.")
+questions = ("Q1. Walt Disney holds the record for the most Oscars.", "Q2. Atari made the first game console.", "Q3. Sheep can climb walls up to almost 90 degrees steep.", "Q4. An octopus has three hearts.", "Q5. Hydrogen is the first element on the periodic table.")
 answers = ("T", "F", "F", "T", "T")
 # Create variables for correct answers and 
 correct = 0
